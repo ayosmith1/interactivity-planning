@@ -1,1 +1,3 @@
-# interactivity-planning
+# Planning
+
+I think I'm going to have two circles touching each other that will be able to bump into each other randomly. For the computer to determine if two objects are touching (the two circles), the computer checks if the distance between the center is less than or equal to the sum of their radii. This can signal the computer when a collision occurs. In the situation that the two circles touch, one of the circles will begin rapidly changing colors for the duration that the two circles are touching. One circle is going to be red and the other blue, when they hit each other, the red one begins changing colors, and will continue to do so as long as it is touching the blue circle. 
